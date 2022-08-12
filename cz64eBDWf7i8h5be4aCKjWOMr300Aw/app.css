@@ -1,1 +1,179 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");[class~=songart]{width:10.9vw;}#visuals{min-height:4.166666667in;}[class~=songart]{height:10.9vw;}[class~=songart]{top:50%;}[class~=songart]{left:33%;}[class~=songart]{border-radius:.585417775412vw;}[class~=songart]{transform:translate(-50%,-50%);}[class~=songart],[class~=songbg],[class~=info],.audio-play{position:absolute;}[class~=songart]{background-position:center center;}[class~=songbg],[class~=songart]{background-size:cover;}[class~=songbg],[class~=songart]{background-image:url("https://cdn.discordapp.com/attachments/1004467067279396924/1006657429582389349/logo69.png");}[class~=songbg],.songTitle,[class~=songart],[class~=songArtist]{-webkit-transition:all .5s ease-in-out;}[class~=songart],[class~=songbg],.songTitle,[class~=songArtist]{-moz-transition:all .5s ease-in-out;}[class~=songart],[class~=songbg],.songTitle,[class~=songArtist]{transition:all .5s ease-in-out;}[class~=songbg]{background-position:center;}[class~=songbg]{background-repeat:no-repeat;}[class~=songbg]{filter:brightness(14%);}*{font-family:"Poppins",sans-serif;}[class~=songbg]{filter:blur(15px);}[class~=songbg]{-webkit-filter:blur(15px);}[class~=songbg]{width:100%;}[class~=songbg]{height:100%;}[class~=songbg]{top:0;}[class~=songbg]{left:0;}[class~=songbg]{z-index:-1;}[class~=info]{text-align:left;}[class~=info]{top:50%;}[class~=info]{left:43%;}[class~=info]{transform:translateY(-50%);}[class~=info]{font-weight:500;}.songTitle{color:#fff;}.songTitle{font-size:2.5vw;}[class~=songArtist],.songTitle{font-weight:700;}.songTitle{overflow:hidden;}[class~=songArtist]{color:#fcfcfc;}[class~=songArtist]{font-size:2vw;}.audio-play{top:64%;}.audio-play{left:50%;}.audio-btn-play,.audio-play{display:inline-block;}.audio-play,.audio-play,.audio-btn-play{cursor:pointer;}.audio-play{transform:translate(-50%,-50%);}.audio-play{color:#fff;}.audio-play{transition:color 2s ease;}.audio-play{transition:all .5s ease-in-out;}.audio-play{-webkit-filter:drop-shadow(0px 0px 5px #000);}.audio-play{-webkit-transition:all .5s ease-in-out;}.audio-play{-moz-transition:all .5s ease-in-out;}.audio-btn-play{margin-top:2px;}.audio-btn-play{width:3.125pc;}.audio-btn-play{height:30px;}.audio-btn-play{border-radius:15pt;}.audio-btn-play{font-size:2.3vw;}[class~=sketch]{margin-bottom:-.375pc;}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+[class~="songart"] {
+    width: 10.9vw;
+}
+#visuals {
+    min-height: 4.166666667in;
+}
+[class~="songart"] {
+    height: 10.9vw;
+}
+[class~="songart"] {
+    top: 50%;
+}
+[class~="songart"] {
+    left: 33%;
+}
+[class~="songart"] {
+    border-radius: 0.585417775412vw;
+}
+[class~="songart"] {
+    transform: translate(-50%, -50%);
+}
+[class~="songart"],
+[class~="songbg"],
+[class~="info"],
+.audio-play {
+    position: absolute;
+}
+[class~="songart"] {
+    background-position: center center;
+    position: absolute;
+}
+[class~="songbg"],
+[class~="songart"] {
+    background-size: cover;
+}
+[class~="songbg"],
+[class~="songart"] {
+    background-image: url("https://cdn.discordapp.com/attachments/1004467067279396924/1006657429582389349/logo69.png");
+}
+[class~="songbg"],
+.songTitle,
+[class~="songart"],
+[class~="songArtist"] {
+    -webkit-transition: all 0.5s ease-in-out;
+}
+[class~="songart"],
+[class~="songbg"],
+.songTitle,
+[class~="songArtist"] {
+    -moz-transition: all 0.5s ease-in-out;
+}
+[class~="songart"],
+[class~="songbg"],
+.songTitle,
+[class~="songArtist"] {
+    transition: all 0.5s ease-in-out;
+}
+[class~="songbg"] {
+    background-position: center;
+}
+[class~="songbg"] {
+    background-repeat: no-repeat;
+}
+[class~="songbg"] {
+    filter: brightness(14%);
+}
+* {
+    font-family: "Poppins", sans-serif;
+}
+[class~="songbg"] {
+    filter: blur(15px);
+}
+[class~="songbg"] {
+    -webkit-filter: blur(15px);
+}
+[class~="songbg"] {
+    width: 100%;
+}
+[class~="songbg"] {
+    height: 100%;
+}
+[class~="songbg"] {
+    top: 0;
+}
+[class~="songbg"] {
+    left: 0;
+}
+[class~="songbg"] {
+    z-index: -1;
+}
+[class~="info"] {
+    text-align: left;
+}
+[class~="info"] {
+    top: 50%;
+}
+[class~="info"] {
+    left: 43%;
+}
+[class~="info"] {
+    transform: translateY(-50%);
+}
+[class~="info"] {
+    font-weight: 500;
+}
+.songTitle {
+    color: #fff;
+}
+.songTitle {
+    font-size: 2.5vw;
+}
+[class~="songArtist"],
+.songTitle {
+    font-weight: 700;
+}
+.songTitle {
+    overflow: hidden;
+}
+[class~="songArtist"] {
+    color: #fcfcfc;
+}
+[class~="songArtist"] {
+    font-size: 2vw;
+}
+.audio-play {
+    top: 64%;
+}
+.audio-play {
+    left: 50%;
+}
+.audio-btn-play,
+.audio-play {
+    display: inline-block;
+}
+.audio-play,
+.audio-play,
+.audio-btn-play {
+    cursor: pointer;
+}
+.audio-play {
+    transform: translate(-50%, -50%);
+}
+.audio-play {
+    color: #fff;
+}
+.audio-play {
+    transition: color 2s ease;
+}
+.audio-play {
+    transition: all 0.5s ease-in-out;
+}
+.audio-play {
+    -webkit-filter: drop-shadow(0px 0px 5px #000);
+}
+.audio-play {
+    -webkit-transition: all 0.5s ease-in-out;
+}
+.audio-play {
+    -moz-transition: all 0.5s ease-in-out;
+}
+.audio-btn-play {
+    margin-top: 2px;
+}
+.audio-btn-play {
+    width: 3.125pc;
+}
+.audio-btn-play {
+    height: 30px;
+}
+.audio-btn-play {
+    border-radius: 15pt;
+}
+.audio-btn-play {
+    font-size: 2.3vw;
+}
+[class~="sketch"] {
+    margin-bottom: -0.375pc;
+}

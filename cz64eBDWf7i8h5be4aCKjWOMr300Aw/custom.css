@@ -1,0 +1,25 @@
+html,body
+{
+    margin: 0;
+    height: 100%;
+    overflow: none;
+
+}
+
+.songbg {
+    z-index: 100;
+}
+
+.vis {
+    position: auto;
+    width: 100%;
+    z-index: 999999;
+    opacity: 1.5;
+    height: 100%;
+    overflow: none;
+    bottom: auto;
+    transform: translate(0%, 3%);
+    bottom: 0;
+    margin: auto;
+    display: block;
+}
