@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>DJ Hour &bullet; Splash</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<link rel="stylesheet" href="cz64eBDWf7i8h5be4aCKjWOMr300Aw/custom.css?<?php echo filemtime('cz64eBDWf7i8h5be4aCKjWOMr300Aw/custom.css');?>">
-<link rel="stylesheet" href="cz64eBDWf7i8h5be4aCKjWOMr300Aw/app.css?<?php echo filemtime('cz64eBDWf7i8h5be4aCKjWOMr300Aw/app.css');?>">
+<link rel="stylesheet" href="assets/custom.css?<?php echo filemtime('assets/custom.css');?>">
+<link rel="stylesheet" href="assets/app.css?<?php echo filemtime('assets/app.css');?>">
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
 <link rel="icon" type="image/x-icon" href="https://cdn.discordapp.com/attachments/1004467067279396924/1006657429582389349/logo69.png">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -26,8 +26,8 @@
 </div>
 <canvas class="vis"></canvas>
 <span class="audio-btn-play" onclick="playDJhour()"><i class="audio-play fas fa-play"></i></span>
-<script src="cz64eBDWf7i8h5be4aCKjWOMr300Aw/app.js?<?php echo filemtime('cz64eBDWf7i8h5be4aCKjWOMr300Aw/app.js'); ?>"></script>
-<script src="cz64eBDWf7i8h5be4aCKjWOMr300Aw/vis.js?<?php echo filemtime('cz64eBDWf7i8h5be4aCKjWOMr300Aw/vis.js'); ?>"></script>
+<script src="assets/app.js?<?php echo filemtime('assets/app.js'); ?>"></script>
+<script src="assets/vis.js?<?php echo filemtime('assets/vis.js'); ?>"></script>
 <script>
     document.addEventListener('contextmenu',(e)=>{
     e.preventDefault();
